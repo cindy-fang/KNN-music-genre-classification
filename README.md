@@ -1,6 +1,6 @@
 # K nearest neighbours implementation for GTZAN dataset music genre classification
 
-(This is a group project for CPS803 (Machine Learning). 3 models were implemented including Logistic Regression, Neural Networks, and K Nearest Neighbours. I implemented the entirety of the KNN model.) 
+This is a group project for CPS803 (Machine Learning). 3 models were implemented including Logistic Regression, Neural Networks, and K Nearest Neighbours. I implemented the entirety of the KNN model.
 
 
 # Problem Statement: 
